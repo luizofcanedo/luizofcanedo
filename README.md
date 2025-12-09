@@ -31,4 +31,3 @@ I am an engineering student passionate about building systems from the ground up
 ### 📫 How to Reach Me
 
 * **Email:** [luizofcanedo@hotmail.com](mailto:luizofcanedo@hotmail.com)
-* **Upwork:** [Link to my Upwork Profile](https://www.upwork.com/freelancers/~0100b0ed6ba2fb1116)
