@@ -10,7 +10,7 @@ I am an engineering student passionate about building systems from the ground up
 
 **Languages**
 ![Python](https://img.shields.io/badge/python-3.12%2B-blue)
-![SQL[](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white))
+![SQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
