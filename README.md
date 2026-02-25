@@ -25,7 +25,7 @@ I am an engineering student passionate about building systems from the ground up
 
 **Visualization & Apps**
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ---
 
