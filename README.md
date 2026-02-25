@@ -2,7 +2,7 @@
 
 ### 🎓 Engineering Student 
 
-I am an engineering student passionate about building systems from the ground up. I don't just memorize formulas; I believe in learning from **first principles** to understand the "why" behind the code. Currently at **FutureLab/Stellantis**, also building scalable data solutions for the global market.
+I am an engineering student passionate about building systems from the ground up. I don't just memorize formulas; I believe in learning from **first principles** to understand the "why" behind the code. I also larp sometimes in my freetime and use neovim and arch btw in my second pc lol.
 
 ---
 
@@ -26,11 +26,6 @@ I am an engineering student passionate about building systems from the ground up
 **Visualization & Apps**
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
----
-
-### ⚡ My Philosophy
-> "I am driven by a need to understand the concrete reality behind abstract theorems. I don't just memorize formulas; I verify them. This deep-dive approach ensures that the solutions I build are grounded in logic and built to last."
 
 ---
 
